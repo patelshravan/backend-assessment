@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST-0001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "12025550101",
+    "address": "New York, NY",
+    "date_of_birth": "1990-01-15",
+    "account_balance": 1000.50,
+    "created_at": "2024-01-01T10:00:00"
+  },
+  {
+    "customer_id": "CUST-0002",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "12025550102",
+    "address": "Los Angeles, CA",
+    "date_of_birth": "1988-03-22",
+    "account_balance": 2500.00,
+    "created_at": "2024-01-02T11:30:00"
+  },
+  {
+    "customer_id": "CUST-0003",
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "email": "michael.johnson@example.com",
+    "phone": "12025550103",
+    "address": "Chicago, IL",
+    "date_of_birth": "1979-07-09",
+    "account_balance": 175.25,
+    "created_at": "2024-01-03T09:15:00"
+  },
+  {
+    "customer_id": "CUST-0004",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "email": "emily.davis@example.com",
+    "phone": "12025550104",
+    "address": "Austin, TX",
+    "date_of_birth": "1992-10-30",
+    "account_balance": 9200.75,
+    "created_at": "2024-01-04T16:45:00"
+  },
+  {
+    "customer_id": "CUST-0005",
+    "first_name": "William",
+    "last_name": "Brown",
+    "email": "william.brown@example.com",
+    "phone": "12025550105",
+    "address": "Seattle, WA",
+    "date_of_birth": "1985-06-18",
+    "account_balance": 430.00,
+    "created_at": "2024-01-05T13:20:00"
+  },
+  {
+    "customer_id": "CUST-0006",
+    "first_name": "Olivia",
+    "last_name": "Miller",
+    "email": "olivia.miller@example.com",
+    "phone": "12025550106",
+    "address": "Denver, CO",
+    "date_of_birth": "1996-02-02",
+    "account_balance": 3100.10,
+    "created_at": "2024-01-06T08:05:00"
+  },
+  {
+    "customer_id": "CUST-0007",
+    "first_name": "Daniel",
+    "last_name": "Wilson",
+    "email": "daniel.wilson@example.com",
+    "phone": "12025550107",
+    "address": "Miami, FL",
+    "date_of_birth": "1983-11-11",
+    "account_balance": 760.90,
+    "created_at": "2024-01-07T12:40:00"
+  },
+  {
+    "customer_id": "CUST-0008",
+    "first_name": "Sophia",
+    "last_name": "Moore",
+    "email": "sophia.moore@example.com",
+    "phone": "12025550108",
+    "address": "Boston, MA",
+    "date_of_birth": "1991-09-26",
+    "account_balance": 5400.30,
+    "created_at": "2024-01-08T15:10:00"
+  },
+  {
+    "customer_id": "CUST-0009",
+    "first_name": "James",
+    "last_name": "Taylor",
+    "email": "james.taylor@example.com",
+    "phone": "12025550109",
+    "address": "San Francisco, CA",
+    "date_of_birth": "1975-04-04",
+    "account_balance": 80.00,
+    "created_at": "2024-01-09T07:55:00"
+  },
+  {
+    "customer_id": "CUST-0010",
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "email": "ava.anderson@example.com",
+    "phone": "12025550110",
+    "address": "Phoenix, AZ",
+    "date_of_birth": "1998-12-12",
+    "account_balance": 12500.99,
+    "created_at": "2024-01-10T18:00:00"
+  },
+  {
+    "customer_id": "CUST-0011",
+    "first_name": "Alexander",
+    "last_name": "Thomas",
+    "email": "alex.thomas@example.com",
+    "phone": "12025550111",
+    "address": "Portland, OR",
+    "date_of_birth": "1981-08-23",
+    "account_balance": 2100.00,
+    "created_at": "2024-01-11T10:20:00"
+  },
+  {
+    "customer_id": "CUST-0012",
+    "first_name": "Mia",
+    "last_name": "Jackson",
+    "email": "mia.jackson@example.com",
+    "phone": "12025550112",
+    "address": "Philadelphia, PA",
+    "date_of_birth": "1993-01-01",
+    "account_balance": 999.99,
+    "created_at": "2024-01-12T09:30:00"
+  },
+  {
+    "customer_id": "CUST-0013",
+    "first_name": "Ethan",
+    "last_name": "White",
+    "email": "ethan.white@example.com",
+    "phone": "12025550113",
+    "address": "Las Vegas, NV",
+    "date_of_birth": "1987-05-05",
+    "account_balance": 305.75,
+    "created_at": "2024-01-13T14:25:00"
+  },
+  {
+    "customer_id": "CUST-0014",
+    "first_name": "Isabella",
+    "last_name": "Harris",
+    "email": "isabella.harris@example.com",
+    "phone": "12025550114",
+    "address": "Detroit, MI",
+    "date_of_birth": "1994-07-17",
+    "account_balance": 4800.60,
+    "created_at": "2024-01-14T11:10:00"
+  },
+  {
+    "customer_id": "CUST-0015",
+    "first_name": "Joseph",
+    "last_name": "Martin",
+    "email": "joseph.martin@example.com",
+    "phone": "12025550115",
+    "address": "Atlanta, GA",
+    "date_of_birth": "1980-02-14",
+    "account_balance": 1500.20,
+    "created_at": "2024-01-15T13:35:00"
+  },
+  {
+    "customer_id": "CUST-0016",
+    "first_name": "Charlotte",
+    "last_name": "Thompson",
+    "email": "charlotte.thompson@example.com",
+    "phone": "12025550116",
+    "address": "Minneapolis, MN",
+    "date_of_birth": "1997-09-09",
+    "account_balance": 670.40,
+    "created_at": "2024-01-16T08:40:00"
+  },
+  {
+    "customer_id": "CUST-0017",
+    "first_name": "Benjamin",
+    "last_name": "Garcia",
+    "email": "ben.garcia@example.com",
+    "phone": "12025550117",
+    "address": "Dallas, TX",
+    "date_of_birth": "1986-12-01",
+    "account_balance": 24000.00,
+    "created_at": "2024-01-17T19:05:00"
+  },
+  {
+    "customer_id": "CUST-0018",
+    "first_name": "Amelia",
+    "last_name": "Martinez",
+    "email": "amelia.martinez@example.com",
+    "phone": "12025550118",
+    "address": "San Diego, CA",
+    "date_of_birth": "1992-06-21",
+    "account_balance": 305.01,
+    "created_at": "2024-01-18T12:05:00"
+  },
+  {
+    "customer_id": "CUST-0019",
+    "first_name": "Logan",
+    "last_name": "Robinson",
+    "email": "logan.robinson@example.com",
+    "phone": "12025550119",
+    "address": "Tampa, FL",
+    "date_of_birth": "1989-10-10",
+    "account_balance": 7800.00,
+    "created_at": "2024-01-19T16:30:00"
+  },
+  {
+    "customer_id": "CUST-0020",
+    "first_name": "Harper",
+    "last_name": "Clark",
+    "email": "harper.clark@example.com",
+    "phone": "12025550120",
+    "address": "Charlotte, NC",
+    "date_of_birth": "1995-03-03",
+    "account_balance": 42.42,
+    "created_at": "2024-01-20T09:00:00"
+  }
+]
